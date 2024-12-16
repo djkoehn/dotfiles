@@ -1,3 +1,4 @@
+-- :Neorg sync-parsers after install or syntax won't work
 return {
   {
     "nvim-neorg/neorg",

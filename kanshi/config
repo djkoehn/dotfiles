@@ -1,0 +1,14 @@
+profile lid-opened {
+  output eDP-1 enable mode 3840x2160@60.001Hz scale 2
+  output DP-2 enable mode 3840x2160@60Hz scale 1.25
+}
+
+profile lid-closed {
+  output eDP-1 disable
+  output DP-2 enable mode 3840x2160@60Hz scale 1.25
+}
+
+profile hub-no-output {
+  output eDP-1 enable mode 3840x2160@60.001Hz scale 2
+  output DP-2 disable
+  }

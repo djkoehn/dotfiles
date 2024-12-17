@@ -34,5 +34,5 @@ multilib
   bluez-utils\
   alsa-utils\
   firefox\
-  kanshi\
+  kanshi
 

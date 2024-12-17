@@ -14,7 +14,7 @@ yarn\
 aerospace\
 alacritty\
 qlmarkdown\
-qutebrowser
+sensiblesidebuttons
 
 # arch
 ## profile 

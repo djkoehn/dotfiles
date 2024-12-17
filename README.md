@@ -9,7 +9,7 @@ firefox
 
 ## brew list
 borders\
-neovim\
+emacs-mac --with-modules  --with-starter\
 yarn\
 aerospace\
 alacritty\

@@ -1,7 +1,7 @@
 {
   "BTTPresetCreatorNotes" : "",
   "BTTPresetInfoURL" : "",
-  "BTTPresetName" : "Default",
+  "BTTPresetName" : "base",
   "BTTPresetColor" : "207.060000, 12.423600, 142.181200, 255.000000",
   "BTTGeneralSettings" : {
     "BTTPathSampleSize" : 100,
@@ -57,6 +57,7 @@
     "showSiriRemoteTab" : true,
     "SIRIScrollSpeed" : 1,
     "BTTShowControlStrip" : true,
+    "SHOWEDHIDEMENUBARWARNING" : true,
     "tpThreeFingerDoubleTapDelay" : 0.5,
     "showNormalMiceTab" : true,
     "BTTNotchBarStandardMenubarModeHideLeftScrollable" : true,
@@ -158,11 +159,11 @@
     "BTTNotchBarNotchMenubarModeHideRightScrollable" : true,
     "BSTSnapAreaDefaultPictoDistanceFromLeft" : 0.10000000149011612
   },
-  "BTTPresetUUID" : "0DB3B013-C7D9-49DA-B880-5A540E7EC97E",
+  "BTTPresetUUID" : "0D6BD85A-3E27-46B4-A9C7-C7078224C65D",
   "BTTPresetContent" : [
     {
-      "BTTAppBundleIdentifier" : "com.apple.finder",
-      "BTTAppName" : "Finder",
+      "BTTAppBundleIdentifier" : "BT.L",
+      "BTTAppName" : "Recently Used",
       "BTTAppAutoInvertIcon" : 1,
       "BTTTriggers" : [
 
@@ -178,7 +179,7 @@
       "BTTTriggers" : [
         {
           "BTTActionCategory" : 0,
-          "BTTLastUpdatedAt" : 1733874181.417474,
+          "BTTLastUpdatedAt" : 1734400261.780715,
           "BTTTriggerType" : 0,
           "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
           "BTTUUID" : "BDCC3917-3700-47E3-9DFC-3CECED39A23C",
@@ -197,7 +198,7 @@
           "BTTAdditionalActions" : [
             {
               "BTTActionCategory" : 0,
-              "BTTLastUpdatedAt" : 1733813365.1931181,
+              "BTTLastUpdatedAt" : 1734400230.5229011,
               "BTTTriggerParentUUID" : "BDCC3917-3700-47E3-9DFC-3CECED39A23C",
               "BTTIsPureAction" : true,
               "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
@@ -216,7 +217,7 @@
         },
         {
           "BTTActionCategory" : 0,
-          "BTTLastUpdatedAt" : 1733874181.4174781,
+          "BTTLastUpdatedAt" : 1734400230.523387,
           "BTTTriggerType" : 0,
           "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
           "BTTUUID" : "39F3D329-7BE6-425F-891E-2037ED0D49B8",
@@ -235,14 +236,14 @@
           "BTTAdditionalActions" : [
             {
               "BTTActionCategory" : 0,
-              "BTTLastUpdatedAt" : 1733813342.487818,
+              "BTTLastUpdatedAt" : 1734400274.4066272,
               "BTTTriggerParentUUID" : "39F3D329-7BE6-425F-891E-2037ED0D49B8",
               "BTTIsPureAction" : true,
               "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
               "BTTUUID" : "62B87EE8-1F21-4748-A01F-12335FAE7ED7",
               "BTTPredefinedActionType" : 49,
               "BTTPredefinedActionName" : "Launch Application  or  Open File  or  Start Apple Script …",
-              "BTTLaunchPath" : "\/System\/Volumes\/Preboot\/Cryptexes\/App\/System\/Applications\/Safari.app",
+              "BTTLaunchPath" : "\/Applications\/Firefox.app",
               "BTTKeyboardShortcutKeyboardType" : 0,
               "BTTEnabled" : 1,
               "BTTEnabled2" : 1,
@@ -254,7 +255,45 @@
         },
         {
           "BTTActionCategory" : 0,
-          "BTTLastUpdatedAt" : 1733874181.417449,
+          "BTTLastUpdatedAt" : 1734400230.5332608,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "E6AC9D69-69C3-41BC-8593-AA03076A94A6",
+          "BTTPredefinedActionType" : 366,
+          "BTTPredefinedActionName" : "Empty Placeholder",
+          "BTTAdditionalConfiguration" : "262145",
+          "BTTKeyboardShortcutKeyboardType" : 13620,
+          "BTTTriggerOnDown" : 1,
+          "BTTLayoutIndependentChar" : "RETURN",
+          "BTTEnabled" : 1,
+          "BTTEnabled2" : 1,
+          "BTTShortcutKeyCode" : 36,
+          "BTTShortcutModifierKeys" : 262144,
+          "BTTOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTAdditionalActions" : [
+            {
+              "BTTActionCategory" : 0,
+              "BTTLastUpdatedAt" : 1734400230.5334702,
+              "BTTTriggerParentUUID" : "E6AC9D69-69C3-41BC-8593-AA03076A94A6",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "17B6D077-EED8-46E8-B534-E87601270483",
+              "BTTPredefinedActionType" : 49,
+              "BTTPredefinedActionName" : "Launch Application  or  Open File  or  Start Apple Script …",
+              "BTTLaunchPath" : "\/Applications\/Alacritty.app",
+              "BTTKeyboardShortcutKeyboardType" : 0,
+              "BTTEnabled" : 1,
+              "BTTEnabled2" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 4,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ]
+        },
+        {
+          "BTTActionCategory" : 0,
+          "BTTLastUpdatedAt" : 1734400230.523886,
           "BTTTriggerType" : 0,
           "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
           "BTTUUID" : "F8DDB196-CE67-4564-BECF-CEB6731CA4AE",
@@ -273,7 +312,7 @@
           "BTTAdditionalActions" : [
             {
               "BTTActionCategory" : 0,
-              "BTTLastUpdatedAt" : 1733868009.4944758,
+              "BTTLastUpdatedAt" : 1734400230.5240769,
               "BTTTriggerParentUUID" : "F8DDB196-CE67-4564-BECF-CEB6731CA4AE",
               "BTTIsPureAction" : true,
               "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
@@ -289,7 +328,7 @@
               "BTTAdditionalActions" : [
                 {
                   "BTTActionCategory" : 0,
-                  "BTTLastUpdatedAt" : 1733873259.9130211,
+                  "BTTLastUpdatedAt" : 1734400230.524262,
                   "BTTTriggerType" : 716,
                   "BTTTriggerTypeDescriptionReadOnly" : "List Item: After Effects",
                   "BTTTriggerTypeDescription" : "After Effects",
@@ -304,7 +343,7 @@
                   "BTTAdditionalActions" : [
                     {
                       "BTTActionCategory" : 0,
-                      "BTTLastUpdatedAt" : 1733868037.9670711,
+                      "BTTLastUpdatedAt" : 1734400230.525831,
                       "BTTTriggerParentUUID" : "121A62C0-36C7-426D-BFA7-6484E151DD21",
                       "BTTIsPureAction" : true,
                       "BTTTriggerClass" : "BTTTriggerTypeCustomActionConfig",
@@ -327,7 +366,7 @@
                 },
                 {
                   "BTTActionCategory" : 0,
-                  "BTTLastUpdatedAt" : 1733873264.496799,
+                  "BTTLastUpdatedAt" : 1734400230.5261831,
                   "BTTTriggerType" : 716,
                   "BTTTriggerTypeDescriptionReadOnly" : "List Item: Blender",
                   "BTTTriggerTypeDescription" : "Blender",
@@ -342,7 +381,7 @@
                   "BTTAdditionalActions" : [
                     {
                       "BTTActionCategory" : 0,
-                      "BTTLastUpdatedAt" : 1733867836.9538441,
+                      "BTTLastUpdatedAt" : 1734400230.527106,
                       "BTTTriggerParentUUID" : "661FE6EC-5C91-49EC-B785-7E4E7D5D2302",
                       "BTTIsPureAction" : true,
                       "BTTTriggerClass" : "BTTTriggerTypeCustomActionConfig",
@@ -365,7 +404,7 @@
                 },
                 {
                   "BTTActionCategory" : 0,
-                  "BTTLastUpdatedAt" : 1733873269.6643,
+                  "BTTLastUpdatedAt" : 1734400230.527427,
                   "BTTTriggerType" : 716,
                   "BTTTriggerTypeDescriptionReadOnly" : "List Item: Final Cut Pro",
                   "BTTTriggerTypeDescription" : "Final Cut Pro",
@@ -380,7 +419,7 @@
                   "BTTAdditionalActions" : [
                     {
                       "BTTActionCategory" : 0,
-                      "BTTLastUpdatedAt" : 1733867881.974113,
+                      "BTTLastUpdatedAt" : 1734400230.529269,
                       "BTTTriggerParentUUID" : "D99C64C8-8111-4443-B376-43AF269D5DC0",
                       "BTTIsPureAction" : true,
                       "BTTTriggerClass" : "BTTTriggerTypeCustomActionConfig",
@@ -403,7 +442,7 @@
                 },
                 {
                   "BTTActionCategory" : 0,
-                  "BTTLastUpdatedAt" : 1733873162.2608309,
+                  "BTTLastUpdatedAt" : 1734400230.5295801,
                   "BTTTriggerType" : 716,
                   "BTTTriggerTypeDescriptionReadOnly" : "List Item: Pixelmator Pro",
                   "BTTTriggerTypeDescription" : "Pixelmator Pro",
@@ -418,7 +457,7 @@
                   "BTTAdditionalActions" : [
                     {
                       "BTTActionCategory" : 0,
-                      "BTTLastUpdatedAt" : 1733867907.353132,
+                      "BTTLastUpdatedAt" : 1734400230.5307951,
                       "BTTTriggerParentUUID" : "FFEFDF81-41B6-4F9F-8216-DE80607C15FE",
                       "BTTIsPureAction" : true,
                       "BTTTriggerClass" : "BTTTriggerTypeCustomActionConfig",
@@ -441,7 +480,7 @@
                 },
                 {
                   "BTTActionCategory" : 0,
-                  "BTTLastUpdatedAt" : 1733873167.2444959,
+                  "BTTLastUpdatedAt" : 1734400230.53107,
                   "BTTTriggerType" : 716,
                   "BTTTriggerTypeDescriptionReadOnly" : "List Item: Substance 3D Painter",
                   "BTTTriggerTypeDescription" : "Substance 3D Painter",
@@ -456,7 +495,7 @@
                   "BTTAdditionalActions" : [
                     {
                       "BTTActionCategory" : 0,
-                      "BTTLastUpdatedAt" : 1733867944.165138,
+                      "BTTLastUpdatedAt" : 1734400230.532866,
                       "BTTTriggerParentUUID" : "B1476588-0DF5-4C16-A061-BC810BBAA446",
                       "BTTIsPureAction" : true,
                       "BTTTriggerClass" : "BTTTriggerTypeCustomActionConfig",
@@ -480,50 +519,12 @@
               ]
             }
           ]
-        },
-        {
-          "BTTActionCategory" : 0,
-          "BTTLastUpdatedAt" : 1733869354.462033,
-          "BTTTriggerType" : 0,
-          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
-          "BTTUUID" : "E6AC9D69-69C3-41BC-8593-AA03076A94A6",
-          "BTTPredefinedActionType" : 366,
-          "BTTPredefinedActionName" : "Empty Placeholder",
-          "BTTAdditionalConfiguration" : "262145",
-          "BTTKeyboardShortcutKeyboardType" : 13620,
-          "BTTTriggerOnDown" : 1,
-          "BTTLayoutIndependentChar" : "RETURN",
-          "BTTEnabled" : 1,
-          "BTTEnabled2" : 1,
-          "BTTShortcutKeyCode" : 36,
-          "BTTShortcutModifierKeys" : 262144,
-          "BTTOrder" : 0,
-          "BTTAutoAdaptToKeyboardLayout" : 0,
-          "BTTAdditionalActions" : [
-            {
-              "BTTActionCategory" : 0,
-              "BTTLastUpdatedAt" : 1733869364.0167069,
-              "BTTTriggerParentUUID" : "E6AC9D69-69C3-41BC-8593-AA03076A94A6",
-              "BTTIsPureAction" : true,
-              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
-              "BTTUUID" : "17B6D077-EED8-46E8-B534-E87601270483",
-              "BTTPredefinedActionType" : 49,
-              "BTTPredefinedActionName" : "Launch Application  or  Open File  or  Start Apple Script …",
-              "BTTLaunchPath" : "\/Applications\/Alacritty.app",
-              "BTTKeyboardShortcutKeyboardType" : 0,
-              "BTTEnabled" : 1,
-              "BTTEnabled2" : 1,
-              "BTTShortcutKeyCode" : -1,
-              "BTTOrder" : 4,
-              "BTTAutoAdaptToKeyboardLayout" : 0
-            }
-          ]
         }
       ]
     },
     {
-      "BTTAppBundleIdentifier" : "BT.L",
-      "BTTAppName" : "Recently Used",
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
       "BTTAppAutoInvertIcon" : 1,
       "BTTTriggers" : [
 

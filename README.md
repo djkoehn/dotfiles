@@ -9,8 +9,7 @@ firefox
 
 ## brew list
 borders\
-emacs-mac --with-modules  --with-starter\
-yarn\
+emacs-mac
 aerospace\
 alacritty\
 qlmarkdown\
@@ -27,16 +26,13 @@ multilib
 
 ## additional packages
   dhcpcd\
-  git \
+  git\
   alacritty\
-  neovim\
   mpv\
   sof-firmware\
   bluez\
   bluez-utils\
   alsa-utils\
-  yarn\
   firefox\
   kanshi\
-  wlsunset
 

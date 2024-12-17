@@ -4,7 +4,8 @@ after effects 25\
 blender\
 final cut pro 11\
 pixelmator pro\
-substance 3d painter
+substance 3d painter\
+firefox
 
 ## brew list
 borders\
@@ -35,7 +36,7 @@ multilib
   bluez-utils\
   alsa-utils\
   yarn\
-  qutebrowser\
+  firefox\
   kanshi\
   wlsunset
 

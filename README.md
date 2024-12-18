@@ -10,7 +10,7 @@ firefox
 ## brew list
 borders\
 emacs-mac --with-modules --with-no-title-bars\
-<h6> with doom emacs </h6>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; add doom emacs\
 aerospace\
 alacritty\
 qlmarkdown\

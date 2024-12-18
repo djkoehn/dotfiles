@@ -9,7 +9,8 @@ firefox
 
 ## brew list
 borders\
-emacs-mac
+emacs-mac --with-modules --with-no-title-bars
+~with doom emacs~\
 aerospace\
 alacritty\
 qlmarkdown\

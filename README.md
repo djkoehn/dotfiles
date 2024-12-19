@@ -12,7 +12,8 @@ smooze\
 little snitch mini\
 commandpost\
 hiddenbar\
-iina
+iina\
+brew
 
 ## brew list
 borders\

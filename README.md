@@ -1,4 +1,4 @@
-# mac
+no# mac
 ## software
 firefox\
 after effects 25\
@@ -44,5 +44,5 @@ firefox\
 mpv
 
 ## git install
-yay\
+[yay](https://github.com/Jguer/yay)\
 [doom emacs](https://github.com/doomemacs/doomemacs)

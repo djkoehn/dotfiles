@@ -9,6 +9,7 @@ substance 3d painter
 
 ## tweaks
 smooze\
+bettertouchtools\
 little snitch mini\
 commandpost\
 hiddenbar\

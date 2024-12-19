@@ -1,11 +1,18 @@
 # mac
 ## software
+firefox\
 after effects 25\
 blender\
 final cut pro 11\
 pixelmator pro\
-substance 3d painter\
-firefox
+substance 3d painter
+
+## tweaks
+smooze\
+little snitch mini\
+commandpost\
+hiddenbar\
+iina
 
 ## brew list
 borders\
@@ -18,7 +25,7 @@ sensiblesidebuttons
 
 # arch
 ## profile 
-sway\
+i3\
 polkit\
 ly\
 pipewire audio\
@@ -26,14 +33,15 @@ multilib
 
 
 ## additional packages
-  dhcpcd\
-  git\
-  alacritty\
-  mpv\
-  sof-firmware\
-  bluez\
-  bluez-utils\
-  alsa-utils\
-  firefox\
-  kanshi
+dhcpcd\
+git\
+sof-firmware\
+bluez\
+bluez-utils\
+alsa-utils\
+picom\
+emacs\
+firefox\
+mpv
+
 

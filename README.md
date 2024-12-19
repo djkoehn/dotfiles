@@ -43,4 +43,6 @@ emacs\
 firefox\
 mpv
 
-
+## git install
+yay\
+[doom emacs](https://github.com/doomemacs/doomemacs)

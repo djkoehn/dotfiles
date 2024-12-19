@@ -15,7 +15,7 @@ hiddenbar\
 iina\
 brew
 
-## brew list
+## brew install
 borders\
 emacs-mac --with-modules --with-no-title-bars\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; add [doom emacs](https://github.com/doomemacs/doomemacs)\

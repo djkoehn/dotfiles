@@ -8,6 +8,7 @@ pixelmator pro\
 substance 3d painter
 
 ## tweaks
+git\
 smooze\
 bettertouchtools\
 little snitch mini\
@@ -17,10 +18,8 @@ iina\
 brew
 
 ## brew install
-borders\
 emacs-mac --with-modules --with-no-title-bars\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; add [doom emacs](https://github.com/doomemacs/doomemacs)\
-aerospace\
 alacritty\
 qlmarkdown\
 sensiblesidebuttons

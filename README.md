@@ -26,7 +26,6 @@ sensiblesidebuttons
 # arch
 ## profile 
 i3\
-polkit\
 ly\
 pipewire audio\
 multilib

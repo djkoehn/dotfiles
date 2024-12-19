@@ -24,27 +24,3 @@ aerospace\
 alacritty\
 qlmarkdown\
 sensiblesidebuttons
-
-# arch
-## profile 
-i3\
-ly\
-pipewire audio\
-multilib
-
-
-## additional packages
-dhcpcd\
-git\
-sof-firmware\
-bluez\
-bluez-utils\
-alsa-utils\
-picom\
-emacs\
-firefox\
-mpv
-
-## git install
-[yay](https://github.com/Jguer/yay)\
-[doom emacs](https://github.com/doomemacs/doomemacs)

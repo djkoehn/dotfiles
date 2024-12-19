@@ -1,4 +1,4 @@
-no# mac
+# mac
 ## software
 firefox\
 after effects 25\

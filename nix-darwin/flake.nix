@@ -32,7 +32,6 @@
         ];
         casks = [
           "firefox"
-          "audacity"
           "blender"
           "iina"
           "sensiblesidebuttons"
@@ -40,10 +39,12 @@
           "find-any-file"
           "downie"
           "bettertouchtool"
-          "the-unarchiver"
           "handbrake"
           "smooze-pro"
+          "spaceid"
           #"folx"
+          # "audacity"
+          # "the-unarchiver"
           #"openemu"
           #"carbon-copy-cloner"
           #"crossover"
@@ -52,7 +53,7 @@
          "Pixelmator" = 1289583905;
          "little-snitch-mini" = 1629008763;
          "hiddenbar" = 1452453066;
-         #"final-cut-pro" =
+         #"final-cut-pro" = 424389933;
         };
         onActivation.cleanup = "zap";
         onActivation.autoUpdate = true;

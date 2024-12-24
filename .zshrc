@@ -5,4 +5,4 @@ alias nix-rebuild="darwin-rebuild switch --flake ~/.config/nix-darwin"
 alias nix-cleanup="nix-collect-garbage -d"
 
 #uncomment for linux
-#alias nix-rebuild="sudo nixos-rebuild switch ~/.config/nix/configuration.nix"
+#alias nix-rebuild="sudo nixos-rebuild switch"
